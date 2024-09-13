@@ -1,11 +1,7 @@
 ---
-title: "304 Website - week 3"
+title: "Mandy's Website"
 ---
 
-This is a Quarto website.
+My name is Mandy He. I am a student at the University of Toronto.
 
-To learn more about Quarto websites visit <https://quarto.org/docs/websites>.
-
-```{r}
-1 + 1
-```
+I am currently in the Finance and Economic Specialist.
